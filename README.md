@@ -1,0 +1,1 @@
+This repository demonstrates a simple implementation of a Recurrent Neural Network (RNN) using Keras. It includes a single RNN layer followed by a dense output layer for binary classification. The code showcases the model architecture, layer details, and extraction of weight matrices, making it ideal for educational purposes or beginners exploring RNNs.
